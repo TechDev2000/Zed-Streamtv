@@ -1,0 +1,8 @@
+name = "iptv-proxy"
+compatibility_date = "2024-01-01"
+
+# Cloudflare Pages project
+# Deploy with: wrangler pages deploy . --project-name=iptv-proxy
+
+[env.production]
+# Production environment settings
